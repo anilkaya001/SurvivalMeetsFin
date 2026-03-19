@@ -2,6 +2,8 @@
 
 ![SurvivalMeetsFin Banner](images/banner.png)
 
+Source of image: https://en.wikipedia.org/wiki/Proportional_hazards_model
+
 > **Educational research tool** — applies survival analysis to market
 > drawdown dynamics. Not financial advice. See [DISCLAIMER.md](DISCLAIMER.md).
 
