@@ -1,7 +1,6 @@
-![SurvivalMeetsFin Banner](images/banner.png)
-
-
 # SurvivalMeetsFin
+
+![SurvivalMeetsFin Banner](images/banner.png)
 
 > **Educational research tool** — applies survival analysis to market
 > drawdown dynamics. Not financial advice. See [DISCLAIMER.md](DISCLAIMER.md).
