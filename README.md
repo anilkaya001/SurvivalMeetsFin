@@ -1,3 +1,6 @@
+![SurvivalMeetsFin Banner](images/banner.png)
+
+
 # SurvivalMeetsFin
 
 > **Educational research tool** — applies survival analysis to market
